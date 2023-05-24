@@ -1,0 +1,2 @@
+Explain the problem of overfitting and generalization in a mathematical and practical sense(see AML book).
+Spend rest of chapter discussing regularization techniques to avoid overfitting. Section on dropout needed.

@@ -1,0 +1,1 @@
+Discuss the basic introductory ML algos such as trees, linear regression, SVMs etc.

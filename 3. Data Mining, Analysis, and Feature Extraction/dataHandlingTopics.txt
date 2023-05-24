@@ -1,0 +1,2 @@
+This will be a rather large chapter focused on how to handle data before giving it to an ML algorithm. 
+Considerations need to be made for different data types and ML algorithms.
