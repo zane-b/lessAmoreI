@@ -1,1 +1,1 @@
-Start with the PLA and build up to neural networks. Include sections on foundational NN papers. include RNNs and LSTms, autoencoders, VAES, GANs
+Start with the PLA and build up to neural networks. Include sections on foundational NN papers. include RNNs and LSTms, autoencoders, VAES, GANs. The foundaational paper could also constitute their own chapter, while this chapter really fleshes out the working of a simple MLP.
